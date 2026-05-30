@@ -7,7 +7,7 @@ from aiogram import Bot, Dispatcher, F, types
 from aiogram.filters import Command
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
-TOKEN = os.getenv("bot8939645129:AAG_stQoFR4f-GfO6F4_l3IjZDPvNPjnj1U")
+TOKEN = os.getenv("8939645129:AAG_stQoFR4f-GfO6F4_l3IjZDPvNPjnj1U")
 MY_CHAT_ID = int(os.getenv("7200293513"))
 
 logging.basicConfig(level=logging.INFO)
