@@ -12,7 +12,7 @@ MY_CHAT_ID = int(os.getenv("7200293513"))
 
 logging.basicConfig(level=logging.INFO)
 
-bot = Bot(8939645129:AAG_stQoFR4f-GfO6F4_l3IjZDPvNPjnj1U)
+bot = Bot(bot8939645129:AAG_stQoFR4f-GfO6F4_l3IjZDPvNPjnj1U)
 dp = Dispatcher()
 
 message_map = {}
