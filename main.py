@@ -8,7 +8,7 @@ from aiogram.filters import Command
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 
 TOKEN = os.getenv("8939645129:AAG_stQoFR4f-GfO6F4_l3IjZDPvNPjnj1U")
-MY_CHAT_ID = int(os.getenv("7200293513"))
+MY_CHAT_ID = int(os.getenv("MY_CHAT_ID "))
 
 logging.basicConfig(level=logging.INFO)
 
